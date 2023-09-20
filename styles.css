@@ -1,0 +1,18 @@
+
+
+#pagos {
+    background-color: lightgray;
+    text-align: center  ;
+    border-radius: 100;
+}
+
+#botones {
+    text-align: right;
+}
+
+.dolasito{
+    position: absolute;
+    padding: 8px;
+    margin-left: -21px;
+}
+
